@@ -1,6 +1,4 @@
-Here is the SQL script for your MySQL database schema:
-
-This script sets up the required tables with appropriate primary and foreign keys. Let me know if you need any modifications! 🚀CREATE DATABASE alx_book_store;
+CREATE DATABASE IF NOT EXISTS alx_book_store;
 USE alx_book_store;
 
 CREATE TABLE Authors (
